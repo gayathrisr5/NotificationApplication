@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidPushNotification</string>
+    <string name="create_notification">1</string>
+</resources>
